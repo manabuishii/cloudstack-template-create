@@ -1,6 +1,8 @@
 #!/bin/bash
 # PREREQUIRED
 #  NIC setting done by hand
+#   HWADDR macaddress
+#   UUID   for NetworkManager ?
 # RECOMMENDED
 #  export HISTSIZE=0
 #  run this script on /tmp
