@@ -9,6 +9,7 @@
 # TODO
 #  UUID of disk
 #  for ext2,3,4 tunee2fs -U `/usr/bin/uuidgen` device
+yum clean all
 yum update -y
 grubby --update-kernel=ALL --remove-args="rhgb quiet"
 
