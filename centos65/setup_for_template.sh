@@ -1,5 +1,6 @@
 #!/bin/bash
 # PREREQUIRED
+#  network settings written in /etc/sysconfig/network-scripts/ifcfg-eth0
 #  NIC setting done by hand
 #   HWADDR macaddress
 #   UUID   for NetworkManager ?
