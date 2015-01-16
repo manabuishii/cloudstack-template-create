@@ -7,6 +7,8 @@
 # RECOMMENDED
 #  export HISTSIZE=0
 #  run this script on /tmp
+#  install chef client is not automatically install.
+#  write scripts to /etc/rc.local
 # TODO
 #  UUID of disk
 #  for ext2,3,4 tunee2fs -U `/usr/bin/uuidgen` device
